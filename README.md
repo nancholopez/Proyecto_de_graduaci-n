@@ -1,2 +1,7 @@
-# Proyecto_de_graduaci-n
+# Proyecto_de_graduación
 Este proyecto de graduación ayuda a la solución del cambio climático
+
+## Esta es la idea de mi proyecto:
+> 
+
+
